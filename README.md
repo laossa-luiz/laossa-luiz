@@ -1,4 +1,4 @@
-# Hi there, I'm Luiz 👋 🥷
+# Hi there, I'm Luiz 👋 
 
 ### 📊 Junior Data Analyst
 Graduated in Systems Analysis and Development (ADS), focused on turning raw data into actionable insights and strategic business decisions.
