@@ -25,4 +25,6 @@ Graduated in Systems Analysis and Development (ADS), focused on turning raw data
 - 🎓 Degree in **Systems Analysis and Development**.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/luiz-laossa)
 <img width="120" height="120" alt="tumblr_muf9u7y2xS1s5jjtzo1_500" src="https://github.com/user-attachments/assets/2c2c9004-4292-4011-94b1-7f577abccab8" />
+<img width="120" height="120" alt="bf95c53a70819967d79c6ce2ff6883bc" src="https://github.com/user-attachments/assets/e97bf99e-cda4-426c-b23c-81d6d835822a" />
+
 
