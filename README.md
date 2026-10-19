@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Luiz 👋
 
-<!--
-**laossa-luiz/laossa-luiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Junior Data Analyst
+Graduated in Systems Analysis and Development (ADS), focused on turning raw data into actionable insights and strategic business decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages & Querying:** Python, SQL
+- **Data Visualization & BI:** Power BI, Microsoft Excel
+- **Version Control & Web:** Git, GitHub, HTML/CSS/JS
+
+---
+
+### 📌 About Me
+- 🔭 Currently building practical projects using **SQL and Python**.
+- 🎓 Degree in **Systems Analysis and Development**.
+- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/luiz-laossa)
+
+---
