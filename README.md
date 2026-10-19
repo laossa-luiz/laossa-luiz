@@ -23,7 +23,5 @@ Graduated in Systems Analysis and Development (ADS), focused on turning raw data
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/luiz-laossa)
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/2y98KScMqLdQM/giphy.gif" width="300" alt="Naruto Running GIF" />
-</div>
+### 🎮 My GitHub Companion
+![Pokemon Widget](https://pokecard.vercel.app/api/pokemon?name=pikachu)
