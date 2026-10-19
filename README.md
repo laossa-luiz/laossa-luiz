@@ -24,7 +24,8 @@ Graduated in Systems Analysis and Development (ADS), focused on turning raw data
 - 🔭 Currently building practical projects using **SQL and Python**.
 - 🎓 Degree in **Systems Analysis and Development**.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/luiz-laossa)
-<img width="120" height="120" alt="a8022ff27f7fafc4bcfa6436ed99a494" src="https://github.com/user-attachments/assets/f3c05275-04d1-44e1-885c-da42b474d753" />
+<img width="120" height="120" alt="hollor_knight3" src="https://github.com/user-attachments/assets/002f67d9-5727-4f6e-8cf1-eab05a71ca06" />
+
 
 
 
