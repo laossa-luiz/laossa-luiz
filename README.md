@@ -1,4 +1,4 @@
-# Hi there, I'm Luiz 👋
+## Hi there, I'm Luiz 👋 <img src="https://raw.githubusercontent.com/javascript-tutorial/en.javascript.info/master/1-js/05-data-types/08-weakmap-weakset/pikachu.gif" width="40" />
 
 ### 📊 Junior Data Analyst
 Graduated in Systems Analysis and Development (ADS), focused on turning raw data into actionable insights and strategic business decisions.
@@ -6,16 +6,6 @@ Graduated in Systems Analysis and Development (ADS), focused on turning raw data
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages & Querying:** Python, SQL
-- **Data Visualization & BI:** Power BI, Microsoft Excel
-- **Version Control & Web:** Git, GitHub, HTML/CSS/JS
-
----
-
-### 📌 About Me
-- 🔭 Currently building practical projects using **SQL and Python**.
-- 🎓 Degree in **Systems Analysis and Development**.
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/luiz-laossa)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -24,3 +14,16 @@ Graduated in Systems Analysis and Development (ADS), focused on turning raw data
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 📌 About Me
+- 🔭 Currently building practical projects using **SQL and Python**.
+- 🎓 Degree in **Systems Analysis and Development**.
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/luiz-laossa)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/2y98KScMqLdQM/giphy.gif" width="300" alt="Naruto Running GIF" />
+</div>
