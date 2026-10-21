@@ -22,7 +22,7 @@ Graduated in Systems Analysis and Development (ADS), focused on turning raw data
 ### 📈 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laossa-luiz_AQUI&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laossa-luiz&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laossa-luiz&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
